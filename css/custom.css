@@ -1,0 +1,108 @@
+/*here typing html is important otherwise height will not be 100%*/
+html {
+  scroll-behavior: smooth;
+}
+html,body {
+	height:100%;
+}
+img {
+	max-width:100%;
+}
+/*cover */
+#cover {
+	background:#555 url("../images/hogwarts1.jpg") center center no-repeat;
+	color:white;
+	background-size:cover;
+	height:100%;
+	text-align:center;
+	display:flex;
+	align-items:center;
+	
+}
+#cover-caption{
+	width:100%;
+}
+#cover-caption form{
+	align-items:center;
+	text-align:center;
+}
+.btn-outline-warning:hover {
+  color: #fff;
+  border:none;
+
+}
+#btn1{
+	transition:0.8s;
+}
+/* .container {
+  width: 80%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+} */
+.card .card-footer{
+	margin-top:20px;
+}
+
+
+
+
+#loginpage{
+	background: #555 url("../images/blue.jpg") no-repeat top;
+	width:100%;
+	height:100%;
+	background-size:cover;
+	display:flex;
+	align-items:center;
+}
+#signuppage{
+	background: #555 url("../images/blue.jpg") no-repeat top;
+	width:100%;
+	height:100%;
+	background-size:cover;
+	display:flex;
+	align-items:center;
+}
+/* #sec1{
+	 animation-delay:0s;
+	 animation-duration:3s;
+	 
+}
+#sec2{
+	 animation-delay:0s;
+	 animation-duration:3s;
+	 
+}
+#sec3{
+	 animation-delay:0s;
+	 animation-duration:3s;
+	 
+}
+#sec4{
+	 animation-delay:0s;
+	 animation-duration:3s;
+	 
+} */
+.sec9{
+	background-color:yellow;
+	color:black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
